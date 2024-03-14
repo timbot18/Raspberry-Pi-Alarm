@@ -10,9 +10,15 @@ OPTIONAL: I created a systemd service to have it run on startup on the pi withou
 Special thanks to these pages that helped point me in the right direction:
 
 https://raspi.tv/2013/rpi-gpio-basics-6-using-inputs-and-outputs-together-with-rpi-gpio-pull-ups-and-pull-downs
+
 https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/
+
 https://roboticsbackend.com/raspberry-pi-gpio-interrupts-tutorial/
+
 https://docs.python.org/3/library/smtplib.html
+
 https://stackoverflow.com/a/57401680
+
 https://github.com/thagrol/Guides/blob/main/boot.pdf
+
 https://github.com/torfsen/python-systemd-tutorial
