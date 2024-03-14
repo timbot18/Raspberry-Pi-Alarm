@@ -1,0 +1,11 @@
+[Unit]
+Description=Alarm Notification Service
+
+[Service]
+ExecStart=/usr/bin/python /home/username/alarm_notification.py
+Restart=on-failure
+User=start_under_this_username
+Group=start_under_this_groupname
+
+[Install]
+WantedBy=multi-user.target
